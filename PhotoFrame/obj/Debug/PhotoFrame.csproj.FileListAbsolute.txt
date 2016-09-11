@@ -1,0 +1,9 @@
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\bin\Debug\PhotoFrame.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\bin\Debug\PhotoFrame.exe
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\bin\Debug\PhotoFrame.pdb
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Debug\PhotoFrame.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Debug\PhotoFrame.Form1.resources
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Debug\PhotoFrame.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Debug\PhotoFrame.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Debug\PhotoFrame.exe
+c:\users\igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Debug\PhotoFrame.pdb

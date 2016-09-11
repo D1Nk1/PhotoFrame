@@ -1,0 +1,12 @@
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\bin\Release\PhotoFrame.exe.config
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\bin\Release\PhotoFrame.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\bin\Release\PhotoFrame.pdb
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.csprojResolveAssemblyReference.cache
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.Form1.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.Properties.Resources.resources
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.csproj.GenerateResource.Cache
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.exe
+C:\Users\Igor\documents\visual studio 2015\Projects\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.pdb
+C:\Users\Igor\Desktop\Новая папка (3)\PhotoFrame\PhotoFrame\bin\Release\PhotoFrame.exe.config
+C:\Users\Igor\Desktop\Новая папка (3)\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.exe
+C:\Users\Igor\Desktop\Новая папка (3)\PhotoFrame\PhotoFrame\obj\Release\PhotoFrame.pdb
